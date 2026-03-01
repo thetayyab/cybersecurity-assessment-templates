@@ -1,14 +1,27 @@
-# Cybersecurity Assessment Templates (Sanitised)
+🔐 Cybersecurity Assessment & Vulnerability Tracking Templates (Sanitised)
 
-This repository contains sanitised Excel templates I created for cybersecurity assessment and tracking.
+This repository contains structured cybersecurity assessment templates developed for security posture evaluation and vulnerability management tracking.
 
-## Included templates
-1) Vulnerability Matrix (Excel)
-- Track findings end-to-end: severity, affected component, risk description, recommended mitigation, status.
+📊 Included Templates
 
-2) Cyber Posture Evaluation (Excel)
-- Self-assessment questionnaire format (Yes/Partial/No/Not sure) to identify control gaps and prioritise improvements.
+1. Vulnerability Matrix (Excel)
+A structured tracking system for security findings including severity rating, affected assets, risk description, remediation plan, ownership, and status tracking.
 
-## Notes
-- These templates are shared as portfolio work samples.
-- Any organisation-specific details have been removed or replaced with placeholders.
+2. Cyber Posture Evaluation Framework (Excel)
+Control-based self-assessment framework using Yes/Partial/No evaluation to identify security gaps and prioritise remediation efforts.
+
+🎯 Skills Demonstrated
+
+Risk Assessment & Control Gap Analysis
+
+Vulnerability Management Tracking
+
+Security Documentation & Reporting
+
+Governance, Risk & Compliance (GRC) Awareness
+
+Structured Security Program Evaluation
+
+📝 Notes
+
+All organisational data has been removed and replaced with placeholders for portfolio demonstration purposes.
